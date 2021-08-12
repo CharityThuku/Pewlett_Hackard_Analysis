@@ -1,3 +1,4 @@
+
 # Pewlett_Hackard_Analysis
 ## Overview of the Project
 - The overview of this project was to use ERDs and SQL to organize and query data for Bobby to present to his manager regarding the status of his employees. We use ERD to create a model of the database using the data of all employees.We use SQL to get the number of retiring employees per title and identify which of thos employees would be interested in a mentorship program.
