@@ -26,5 +26,5 @@
 
 - From the data above, we know that a large number of senior staff is of retirement age, however the number of employees who qualify is not as large. This information can help the manager decide how to prepare for the upcoming changes within the company. 
 
-Summary:
+## Summary:
  - With only five active managers for nine departments, Bobby can learn that the company is oversaturated with senior staff. This could mean that they have very loyal employees or that half of that staff may not be qualified to be in that position. While sifting through the data, we did see some employees appear twice which could be explained by the fact they possibly held more than one position within the company. This data can help the company invest more in the mentorship program in order to make up for the amount of senior staff that will be retiring soon. 
